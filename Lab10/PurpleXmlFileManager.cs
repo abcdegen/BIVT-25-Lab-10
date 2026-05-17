@@ -1,6 +1,6 @@
-using System.Text.Json;           // Разрешено условием
-using System.Text.Encodings.Web;  // Для сохранения чистой кириллицы
-using System.Xml.Serialization;   // Разрешено условием
+using System.Text.Json;          
+using System.Text.Encodings.Web;  
+using System.Xml.Serialization;   
 
 namespace Lab10.Purple;
 
